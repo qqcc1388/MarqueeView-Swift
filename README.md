@@ -3,7 +3,7 @@
 
 [Objective-C 版本](https://github.com/qqcc1388/MarqueeViewDemo)
 
-![图片](https://github.com/qqcc1388/MarqueeView-Swift/blob/master/WX20190218-102028%402x.png)
+![图片](https://github.com/qqcc1388/MarqueeView-Swift/blob/master/WX20190218-103403@2x.png)
 
 ### demo介绍
 
